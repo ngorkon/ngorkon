@@ -36,7 +36,6 @@ Here's a highlight of my work:
     *   🔗 [View on GitHub](https://github.com/ngorkon/mywebsite) 
     *   🌍 [Visit Website](https://ngorkon.github.io/mywebsite/)
 
-*(Feel free to add more projects. You can use GIFs or images to showcase them too!)*
 
 ---
 
