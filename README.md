@@ -33,17 +33,13 @@ Here's a highlight of my work:
   * 🔗 [View on GitHub](https://github.com/ngorkon/mywebsite)
   * 🌍 [Visit Website](https://ngorkon.github.io/mywebsite/)
 
-* 🎓 **Campus-Fin**: A project for financial management for educational institutions.
-  * 🔗 [View on GitHub](https://github.com/ngorkon/campus-fin)
-
 * 📚 **Studious**: Tools and resources for student success.
   * 🔗 [View on GitHub](https://github.com/ngorkon/studious)
 
 * 🎥 **Videoix**: Video indexing and management system.
   * 🔗 [View on GitHub](https://github.com/ngorkon/videoix)
 
-* 🎞️ **TrailerLens 2.1**: Analyzing and categorizing movie trailers.
-  * 🔗 [View on GitHub](https://github.com/ngorkon/trailerlens.2.1)
+
 
 ---
 
