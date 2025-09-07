@@ -1,8 +1,5 @@
 # Hi there, I'm Mayom Kon <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<!-- You can generate an animated typing SVG from services like: -->
-<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
-<!-- Example: <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=24&pause=1000&color=58A6FF&center=true&width=435&lines=Aspiring+ML+%26+Mechanical+Engineer;Physics+%26+Chemistry+Student;AI+Vision+Enthusiast" alt="Typing SVG" /> -->
 <p align="center">
   <em>Building at the intersection of science, engineering, and code</em>
 </p>
@@ -31,11 +28,22 @@
 
 Here's a highlight of my work:
 
-*   🌐 **Personal Portfolio Website**: My digital space to showcase my journey, projects, and skills.
-    *   🛠️ *Technologies: <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd> (Update with actual technologies)*
-    *   🔗 [View on GitHub](https://github.com/ngorkon/mywebsite) 
-    *   🌍 [Visit Website](https://ngorkon.github.io/mywebsite/)
+* 🌐 **Personal Portfolio Website**: My digital space to showcase my journey, projects, and skills.
+  * 🛠️ *Technologies: <kbd>HTML</kbd>, <kbd>CSS</kbd>, <kbd>JavaScript</kbd>*
+  * 🔗 [View on GitHub](https://github.com/ngorkon/mywebsite)
+  * 🌍 [Visit Website](https://ngorkon.github.io/mywebsite/)
 
+* 🎓 **Campus-Fin**: A project for financial management for educational institutions.
+  * 🔗 [View on GitHub](https://github.com/ngorkon/campus-fin)
+
+* 📚 **Studious**: Tools and resources for student success.
+  * 🔗 [View on GitHub](https://github.com/ngorkon/studious)
+
+* 🎥 **Videoix**: Video indexing and management system.
+  * 🔗 [View on GitHub](https://github.com/ngorkon/videoix)
+
+* 🎞️ **TrailerLens 2.1**: Analyzing and categorizing movie trailers.
+  * 🔗 [View on GitHub](https://github.com/ngorkon/trailerlens.2.1)
 
 ---
 
@@ -50,10 +58,8 @@ Here's a highlight of my work:
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngorkon&show_icons=true&hide_title=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&theme=tokyonight" alt="Mayom Kon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ngorkon&show_icons=true&hide_title=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngorkon&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-  <!-- Uncomment and customize if you want to show contribution graph -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngorkon&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true&theme=github-compact" alt="GitHub Activity Graph"/> -->
 </p>
 
 <p align="center">
@@ -71,8 +77,6 @@ Here's a highlight of my work:
   <a href="https://ngorkon.github.io/mywebsite/" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website"/>
   </a>
-  <!-- Add other social links here -->
-  <!-- Example: <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
 </p>
 
 ---
