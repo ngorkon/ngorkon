@@ -26,7 +26,7 @@ These three areas represent my core strengths: bridging low-level systems with h
 
 | **1. Systems & Architecture** | **2. Computational Modeling** | **3. Applied Machine Learning** |
 | :--- | :--- | :--- |
-| **I build from the ground up.** From designing a CPU simulator in Assembly/C to managing memory, I understand how computers actually work. | **I model the physical world.** I use Python, MATLAB, and numerical methods to simulate complex systems, from quantum mechanics to fluid dynamics. | **I turn data into insight.** I apply ML algorithms (TensorFlow, Scikit-learn) to analyze experimental data and build predictive models. |
+| **I am building from the ground up.** Currently designing a CPU simulator in Assembly/C to managing memory, I want to understand how computers actually work. | **I model the physical world.** I am using Python, MATLAB, and numerical methods to simulate complex systems, from quantum mechanics to fluid dynamics. | **I turn data into insight.** I applied ML algorithms (TensorFlow, Scikit-learn) to analyze experimental data and build predictive models. |
 | **Featured Project:** [**CPU Simulator**](#) | **Featured Project:** [**Quantum State Simulation**](#) | **Featured Project:** [**TrailerLens 2.1**](#) |
 
 ---
