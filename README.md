@@ -31,7 +31,7 @@ These three areas represent my core strengths: bridging low-level systems with h
 
 ---
 
-### 📚 **The Transcript 2.0: A Deeper Dive**
+### 📚 ** A Deeper Dive**
 *A comprehensive record of my academic coursework, designed to be more insightful than a traditional transcript.*
 
 <details>
@@ -40,9 +40,10 @@ These three areas represent my core strengths: bridging low-level systems with h
 
 | Course Title | Key Skills & Concepts | Credits (US/ECTS) | Evidence |
 | :--- | :--- | :---: | :---: |
-| **Linear Algebra** | ![Static Badge](https://img.shields.io/badge/Matrices-blue) ![Static Badge](https://img.shields.io/badge/Eigenvalues-blue) ![Static Badge](https://img.shields.io/badge/Vector_Spaces-blue) | 4 / ~8 | [📄 Syllabus](#) |
-| **Differential Equations** | ![Static Badge](https://img.shields.io/badge/ODEs-blue) ![Static Badge](https://img.shields.io/badge/Modeling-blue) ![Static Badge](https://img.shields.io/badge/Laplace-blue) | 4 / ~8 | [📄 Syllabus](#) |
+| **Applied Calculus** | ![Static Badge](https://img.shields.io/badge/Modeling-blue) ![Static Badge](https://img.shields.io/badge/Optimization-blue) ![Static Badge](https://img.shields.io/badge/Applications-blue) | 4 / ~8 | [📄 Syllabus](#) |
+| **Calculus 1 (Single Variable)** | ![Static Badge](https://img.shields.io/badge/Limits-blue) ![Static Badge](https://img.shields.io/badge/Derivatives-blue) ![Static Badge](https://img.shields.io/badge/Integrals-blue) | 4 / ~8 | [📄 Syllabus](#) |
 | **Multivariable Calculus**| ![Static Badge](https://img.shields.io/badge/Vector_Calculus-blue) ![Static Badge](https://img.shields.io/badge/Partial_Derivatives-blue) | 4 / ~8 | [📄 Syllabus](#) |
+| **Discrete Math** | ![Static Badge](https://img.shields.io/badge/Logic-blue) ![Static Badge](https://img.shields.io/badge/Set_Theory-blue) ![Static Badge](https://img.shields.io/badge/Combinatorics-blue) | 4 / ~8 | [📄 Syllabus](#) |
 
 </details>
 
@@ -52,9 +53,7 @@ These three areas represent my core strengths: bridging low-level systems with h
 
 | Course Title | Key Skills & Concepts | Credits (US/ECTS) | Project / Evidence |
 | :--- | :--- | :---: | :---: |
-| **Computer Architecture**| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat) ![Static Badge](https://img.shields.io/badge/Memory_Mgmt-red) | 4 / ~8 | [🔗 CPU Sim](#) |
-| **Algorithms** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Big_O-red) ![Static Badge](https://img.shields.io/badge/Graph_Theory-red) | 4 / ~8 | [🔗 Implementations](#) |
-| **Software Design** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Static Badge](https://img.shields.io/badge/OOP-green) ![Static Badge](https://img.shields.io/badge/Design_Patterns-green) | 3 / ~6 | [🔗 Final Project](#) |
+| **Intro to Computer Science**| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Fundamentals-red) | 3 / ~6 | [🔗 Final Project](#) |
 
 </details>
 
@@ -64,9 +63,23 @@ These three areas represent my core strengths: bridging low-level systems with h
 
 | Course Title | Key Skills & Concepts | Credits (US/ECTS) | Lab / Evidence |
 | :--- | :--- | :---: | :---: |
-| **Quantum Mechanics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Schrödinger_Eq-purple) | 4 / ~8 | [🔗 Simulation](#) |
-| **Classical Mechanics** | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Static Badge](https://img.shields.io/badge/Lagrangian-purple) | 4 / ~8 | [📄 Lab Report](#) |
+| **Analytical Physics I** | ![Static Badge](https://img.shields.io/badge/Mechanics-purple) ![Static Badge](https://img.shields.io/badge/Kinematics-purple) ![Static Badge](https://img.shields.io/badge/Dynamics-purple) | 4 / ~8 | [📄 Lab Report](#) |
+| **Analytical Physics II**| ![Static Badge](https://img.shields.io/badge/E&M-purple) ![Static Badge](https://img.shields.io/badge/Waves-purple) ![Static Badge](https://img.shields.io/badge/Optics-purple) | 4 / ~8 | [📄 Lab Report](#) |
+| **Electronics** | ![Static Badge](https://img.shields.io/badge/Circuit_Design-purple) ![Static Badge](https://img.shields.io/badge/Diodes-purple) ![Static Badge](https://img.shields.io/badge/Transistors-purple) | 3 / ~6 | [🔗 Lab Project](#) |
 | **Computational Physics**| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Static Badge](https://img.shields.io/badge/Simulations-purple) | 3 / ~6 | [🔗 Modeling Project](#) |
+
+</details>
+
+<details>
+<summary><strong>▼ Chemistry & Molecular Science</strong> — <em>Understanding the fundamental building blocks of matter.</em></summary>
+<br>
+
+| Course Title | Key Skills & Concepts | Credits (US/ECTS) | Lab / Evidence |
+| :--- | :--- | :---: | :---: |
+| **General Chemistry I** | ![Static Badge](https://img.shields.io/badge/Stoichiometry-orange) ![Static Badge](https://img.shields.io/badge/Bonding-orange) ![Static Badge](https://img.shields.io/badge/Kinetics-orange) | 4 / ~8 | [📄 Lab Report](#) |
+| **General Chemistry II** | ![Static Badge](https://img.shields.io/badge/Acids_&_Bases-orange) ![Static Badge](https://img.shields.io/badge/Thermodynamics-orange) ![Static Badge](https://img.shields.io/badge/Electrochem-orange) | 4 / ~8 | [📄 Lab Report](#) |
+| **Intro to Functional Chem**| ![Static Badge](https://img.shields.io/badge/Organic_Chem-orange) ![Static Badge](https://img.shields.io/badge/Spectroscopy-orange) | 4 / ~8 | [📄 Lab Report](#) |
+| **Quantum Chemistry** | ![Static Badge](https://img.shields.io/badge/Quantum_Mechanics-orange) ![Static Badge](https://img.shields.io/badge/Molecular_Orbitals-orange) | 4 / ~8 | [🔗 Simulation](#) |
 
 </details>
 
