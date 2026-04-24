@@ -177,9 +177,6 @@
 | :---: | :--- | :--- | :--- | :---: | :---: |
 | 1 | CPU Simulator | Systems / Architecture | Assembly · C | 🔨 WIP | [🔗](#) |
 | 2 | Quantum State Simulation | Physics / Computation | Python · NumPy | 🔨 WIP | [🔗](#) |
-| 3 | TrailerLens 2.1 | ML / Data | Python · TensorFlow | ✅ Done | [🔗](#) |
-| 4 | *(your next project)* | *(domain)* | *(stack)* | 💡 Idea | — |
-| 5 | *(your next project)* | *(domain)* | *(stack)* | 💡 Idea | — |
 
 ---
 
