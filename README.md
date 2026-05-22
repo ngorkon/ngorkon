@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Ng'or+%F0%9F%91%8B;physics+%C2%B7+chemistry+%C2%B7+code;atoms+in+the+morning%2C+algorithms+at+night)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Mayom+%F0%9F%91%8B;physics+%C2%B7+chemistry+%C2%B7+code;atoms+in+the+morning%2C+algorithms+at+night)](https://git.io/typing-svg)
 
 <sub>B.A. Physics · Mathematics · Chemistry &nbsp;|&nbsp; The College of Idaho</sub>
 
