@@ -4,7 +4,7 @@
   Ng'or Kon
   ─────────────────────────────────────────────────────
   B.A. Physics · Mathematics · Chemistry  |  The College of Idaho
-  atoms in the morning, algorithms at night
+
 ```
 
 </div>
