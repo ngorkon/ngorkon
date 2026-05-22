@@ -15,7 +15,7 @@
 
 Undergrad studying physics, math, and chemistry — with a bad habit of turning physical intuition into code. I get genuinely excited when a simulation matches a real-world measurement, or when a half-understood equation suddenly clicks at 2am.
 
-Currently interning in R&D at **TipNow**, where I work on transformer-based models for radar signal classification. Before that, I was building levitation rigs and irrigation systems out of Arduino boards for fun. That about sums me up.
+Previously interned in R&D at **TipNow**, working on transformer-based models for radar signal classification. Before that, I was building levitation rigs and irrigation systems out of Arduino boards for fun. That about sums me up.
 
 ---
 
@@ -47,15 +47,6 @@ Science       Mathematica, MATLAB, COMSOL (basic), Signal Processing
 Hardware      Arduino, KiCad, PID control, sensor integration
 Other         Git, Prompt Engineering, LLM tooling, Data Visualization
 ```
-
----
-
-## background
-
-- 🎓 Gipson Honors Program Scholar | UWC Davis Scholar
-- 🔬 Coursework: Analytical Physics, Electronics, Advanced Calculus, Quantum Chemistry, Functional Chemistry
-- 🌍 International Baccalaureate, UWC Maastricht (Netherlands)
-- 🤝 Event Coordinator — International Students Org · Social Media Manager — Asian Student Association · President — Interfaith Council
 
 ---
 
