@@ -30,9 +30,6 @@ Previously interned in R&D at **TipNow**, working on transformer-based models fo
 
 ## past builds
 
-**Electromagnetic Levitation System** *(2024)*
-Built a PID-controlled magnetic levitation prototype with Arduino sensors. Wrote Python simulations (Matplotlib, SciPy) to model field parameters before touching hardware — learned the hard way that skipping the sim is expensive.
-
 **Smart Bin & Smart Irrigation System** *(2023, UWC Maastricht Robotics Club)*
 Arduino-powered automation using sensor data for real-time decision logic. The irrigation system cut plant loss by 20%. Managed the whole build cycle from design to field test.
 
